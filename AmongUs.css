@@ -586,3 +586,8 @@ form button .fas{
         left:100%;
     }
 }
+iframe{
+  justify-content: center;
+  padding-left: 270px;
+  position: relative;
+}
